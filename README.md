@@ -24,6 +24,6 @@
 
 <h2 align="left">📝 Testers</h2>
 
-[Libft-War-Machine](https://github.com/y3ll0w42/libft-war-machine)
+- [Libft-War-Machine](https://github.com/y3ll0w42/libft-war-machine)
 
-[Libft-Unit-Test](https://github.com/alelievr/libft-unit-test) 
+- [Libft-Unit-Test](https://github.com/alelievr/libft-unit-test) 
