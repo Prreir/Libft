@@ -27,3 +27,5 @@
 - [Libft-War-Machine](https://github.com/y3ll0w42/libft-war-machine)
 
 - [Libft-Unit-Test](https://github.com/alelievr/libft-unit-test) 
+
+Made by Luís Pereira (Prreir) | lugoncal@student.42porto.com
