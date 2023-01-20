@@ -1,6 +1,6 @@
 <h1 align="center">42 Cursus - Libft <img src="https://imgur.com/MbpYAc0.png" alt="c" align="right" width="65" height="65"/></h1>
 <p align="center">This repository contains code developed at 42 Porto for Libft Project.</p>
-<h2 align="left"> 📄 Subject : </h2>
+<h2 align="left"> 📄 Subject </h2>
 <a href="https://github.com/Prreir/Libft_42/blob/main/Extra/Subject.pdf" >Subject</a> access!
 
 <h2 align="left">🥇 Part 1 - Libc functions</h2>
